@@ -1,0 +1,203 @@
+TrendID,ProductGroupID,MarketAnalysisDate,TrendDescription,ProjectedDemand,MarketShare,CompetitorAnalysis,Region,GrowthRate,AnalystID
+1,162,2023-11-20 06:09:33.946913,Increasing demand,39117,12.11,Moderate competition,Africa,11.99,41
+2,374,2024-03-19 06:09:33.946930,Increasing demand,63015,5.81,Moderate competition,Europe,5.16,35
+3,401,2023-12-23 06:09:33.946941,Increasing demand,33978,5.2,Moderate competition,North America,7.91,48
+4,164,2023-12-24 06:09:33.946950,Increasing demand,70349,18.7,Moderate competition,South America,4.86,27
+5,23,2023-11-03 06:09:33.946959,Increasing demand,88381,9.7,Moderate competition,Africa,1.85,27
+6,257,2023-08-25 06:09:33.946967,Increasing demand,78974,16.11,Moderate competition,North America,4.72,25
+7,249,2024-05-28 06:09:33.946976,Increasing demand,22424,15.71,Moderate competition,Europe,5.3,13
+8,166,2024-03-01 06:09:33.946986,Increasing demand,88236,3.07,Moderate competition,Asia,1.94,17
+9,357,2024-02-18 06:09:33.946997,Increasing demand,50492,12.71,Moderate competition,Europe,8.9,4
+10,486,2023-11-13 06:09:33.947002,Increasing demand,59619,13.2,Moderate competition,North America,3.97,49
+11,31,2024-05-11 06:09:33.947009,Increasing demand,72800,5.27,Moderate competition,Europe,5.53,34
+12,214,2023-11-30 06:09:33.947018,Increasing demand,36530,10.6,Moderate competition,Europe,13.79,8
+13,318,2023-08-22 06:09:33.947026,Increasing demand,86109,10.29,Moderate competition,Africa,4.9,15
+14,174,2024-04-02 06:09:33.947032,Increasing demand,86616,9.05,Moderate competition,Africa,3.69,31
+15,472,2023-09-29 06:09:33.947036,Increasing demand,54882,1.83,Moderate competition,South America,6.67,31
+16,407,2023-11-03 06:09:33.947040,Increasing demand,49453,16.78,Moderate competition,Europe,14.8,15
+17,87,2023-12-28 06:09:33.947045,Increasing demand,1130,12.28,Moderate competition,Europe,9.54,27
+18,266,2024-05-02 06:09:33.947049,Increasing demand,14692,14.82,Moderate competition,Asia,9.24,38
+19,115,2024-05-12 06:09:33.947053,Increasing demand,36137,17.34,Moderate competition,North America,9.78,28
+20,27,2024-01-11 06:09:33.947057,Increasing demand,25502,10.93,Moderate competition,Europe,2.56,1
+21,251,2024-02-11 06:09:33.947063,Increasing demand,21232,2.96,Moderate competition,Africa,14.98,47
+22,250,2024-02-23 06:09:33.947071,Increasing demand,93984,10.7,Moderate competition,South America,14.92,13
+23,271,2023-12-13 06:09:33.947079,Increasing demand,31948,17.16,Moderate competition,North America,1.78,27
+24,80,2023-08-02 06:09:33.947085,Increasing demand,98835,4.73,Moderate competition,South America,7.04,25
+25,341,2023-09-30 06:09:33.947090,Increasing demand,89802,16.8,Moderate competition,Asia,6.64,34
+26,89,2023-11-17 06:09:33.947094,Increasing demand,30687,19.05,Moderate competition,Africa,13.4,49
+27,366,2024-01-30 06:09:33.947098,Increasing demand,89430,18.42,Moderate competition,Africa,1.56,22
+28,481,2024-01-10 06:09:33.947102,Increasing demand,74913,2.81,Moderate competition,South America,1.63,33
+29,144,2023-10-17 06:09:33.947106,Increasing demand,74628,8.71,Moderate competition,Asia,3.27,17
+30,448,2024-06-17 06:09:33.947111,Increasing demand,99055,15.46,Moderate competition,North America,6.29,28
+31,440,2024-06-08 06:09:33.947114,Increasing demand,32088,14.21,Moderate competition,Africa,11.97,34
+32,431,2024-01-14 06:09:33.947118,Increasing demand,1638,3.81,Moderate competition,South America,10.33,39
+33,369,2023-07-15 06:09:33.947124,Increasing demand,82446,17.83,Moderate competition,South America,13.77,38
+34,52,2023-11-21 06:09:33.947128,Increasing demand,27484,4.2,Moderate competition,South America,5.09,29
+35,83,2023-11-01 06:09:33.947132,Increasing demand,38839,5.52,Moderate competition,Africa,8.33,39
+36,341,2023-06-24 06:09:33.947136,Increasing demand,37674,14.12,Moderate competition,Europe,12.76,8
+37,379,2023-07-22 06:09:33.947140,Increasing demand,60736,4.55,Moderate competition,South America,4.81,38
+38,436,2023-12-09 06:09:33.947144,Increasing demand,36903,4.83,Moderate competition,North America,4.4,33
+39,466,2023-08-13 06:09:33.947149,Increasing demand,21385,4.73,Moderate competition,Africa,1.31,46
+40,20,2024-03-22 06:09:33.947153,Increasing demand,87301,7.25,Moderate competition,Africa,10.54,36
+41,395,2024-01-03 06:09:33.947157,Increasing demand,50146,5.13,Moderate competition,North America,9.39,33
+42,51,2023-08-05 06:09:33.947161,Increasing demand,81315,6.22,Moderate competition,North America,11.39,3
+43,438,2023-06-22 06:09:33.947165,Increasing demand,99036,11.58,Moderate competition,Asia,11.12,47
+44,138,2023-08-15 06:09:33.947169,Increasing demand,43591,19.02,Moderate competition,North America,11.55,14
+45,353,2023-09-14 06:09:33.947174,Increasing demand,63664,19.51,Moderate competition,South America,14.06,14
+46,448,2023-11-27 06:09:33.947178,Increasing demand,33268,9.84,Moderate competition,North America,1.21,34
+47,19,2024-03-20 06:09:33.947182,Increasing demand,81394,13.78,Moderate competition,Africa,13.55,47
+48,237,2024-01-04 06:09:33.947186,Increasing demand,40410,17.36,Moderate competition,Africa,6.53,10
+49,44,2023-12-15 06:09:33.947190,Increasing demand,1482,15.0,Moderate competition,North America,2.93,11
+50,6,2024-05-09 06:09:33.947194,Increasing demand,4924,11.06,Moderate competition,North America,8.69,8
+51,223,2024-01-06 06:09:33.947198,Increasing demand,2678,1.3,Moderate competition,Africa,14.16,23
+52,496,2023-12-01 06:09:33.947202,Increasing demand,79448,12.38,Moderate competition,North America,5.45,42
+53,176,2023-07-27 06:09:33.947206,Increasing demand,71524,12.24,Moderate competition,Asia,8.37,14
+54,103,2023-10-27 06:09:33.947210,Increasing demand,40725,12.38,Moderate competition,Asia,9.06,13
+55,130,2023-08-28 06:09:33.947214,Increasing demand,64268,19.15,Moderate competition,South America,12.27,30
+56,483,2024-06-13 06:09:33.947218,Increasing demand,70316,8.83,Moderate competition,Africa,3.91,18
+57,353,2024-03-02 06:09:33.947222,Increasing demand,32541,3.34,Moderate competition,Europe,2.17,49
+58,486,2023-12-07 06:09:33.947226,Increasing demand,39233,7.61,Moderate competition,Asia,8.05,48
+59,187,2023-10-29 06:09:33.947230,Increasing demand,85455,6.07,Moderate competition,Europe,5.62,33
+60,306,2023-12-24 06:09:33.947234,Increasing demand,54816,18.12,Moderate competition,Africa,7.27,32
+61,224,2023-07-18 06:09:33.947238,Increasing demand,62550,7.47,Moderate competition,Europe,3.72,26
+62,78,2024-03-05 06:09:33.947242,Increasing demand,74750,8.56,Moderate competition,Africa,2.67,45
+63,402,2024-05-25 06:09:33.947256,Increasing demand,99792,15.25,Moderate competition,Africa,4.19,19
+64,129,2023-10-15 06:09:33.947260,Increasing demand,62163,13.96,Moderate competition,Europe,10.22,4
+65,490,2023-08-06 06:09:33.947264,Increasing demand,27937,4.76,Moderate competition,Africa,2.67,43
+66,490,2024-05-31 06:09:33.947268,Increasing demand,79628,5.51,Moderate competition,Europe,3.32,22
+67,414,2023-10-07 06:09:33.947278,Increasing demand,19945,10.96,Moderate competition,Africa,11.71,50
+68,72,2024-02-09 06:09:33.947287,Increasing demand,60689,2.26,Moderate competition,Asia,13.0,39
+69,439,2023-12-18 06:09:33.947296,Increasing demand,24604,1.79,Moderate competition,South America,10.94,39
+70,479,2024-06-16 06:09:33.947303,Increasing demand,48256,5.29,Moderate competition,South America,4.12,19
+71,307,2023-11-06 06:09:33.947308,Increasing demand,11992,9.31,Moderate competition,North America,14.75,22
+72,263,2023-06-22 06:09:33.947312,Increasing demand,7786,8.8,Moderate competition,Asia,10.43,7
+73,15,2023-12-14 06:09:33.947316,Increasing demand,6014,10.06,Moderate competition,North America,9.64,25
+74,307,2023-08-01 06:09:33.947320,Increasing demand,22036,18.46,Moderate competition,Europe,11.92,19
+75,70,2023-10-10 06:09:33.947324,Increasing demand,49117,18.7,Moderate competition,Africa,3.4,21
+76,152,2023-06-19 06:09:33.947328,Increasing demand,51660,14.7,Moderate competition,Europe,9.62,18
+77,438,2023-07-29 06:09:33.947332,Increasing demand,33645,1.07,Moderate competition,Asia,1.67,23
+78,222,2024-04-21 06:09:33.947336,Increasing demand,90652,14.2,Moderate competition,Asia,2.49,5
+79,261,2024-06-03 06:09:33.947340,Increasing demand,54444,14.9,Moderate competition,South America,10.68,48
+80,11,2024-06-11 06:09:33.947344,Increasing demand,78636,9.2,Moderate competition,Africa,11.16,7
+81,392,2024-01-09 06:09:33.947348,Increasing demand,45466,18.0,Moderate competition,Europe,1.09,15
+82,454,2024-04-01 06:09:33.947352,Increasing demand,62089,11.76,Moderate competition,Africa,1.79,5
+83,467,2023-09-10 06:09:33.947357,Increasing demand,50910,3.81,Moderate competition,Africa,7.99,37
+84,256,2023-11-02 06:09:33.947361,Increasing demand,99961,6.1,Moderate competition,Africa,12.65,13
+85,62,2023-06-27 06:09:33.947365,Increasing demand,6058,15.58,Moderate competition,Africa,14.99,8
+86,145,2023-09-20 06:09:33.947369,Increasing demand,20097,18.06,Moderate competition,North America,12.08,31
+87,297,2023-12-25 06:09:33.947374,Increasing demand,38528,3.33,Moderate competition,Europe,11.1,31
+88,84,2023-07-14 06:09:33.947378,Increasing demand,3431,10.06,Moderate competition,North America,8.19,38
+89,226,2023-06-28 06:09:33.947382,Increasing demand,87526,15.79,Moderate competition,Asia,4.26,12
+90,480,2024-02-01 06:09:33.947386,Increasing demand,2894,18.03,Moderate competition,South America,4.93,39
+91,137,2024-05-17 06:09:33.947390,Increasing demand,36279,5.92,Moderate competition,Asia,9.2,16
+92,19,2023-09-17 06:09:33.947394,Increasing demand,2293,12.49,Moderate competition,Asia,13.51,2
+93,342,2023-08-11 06:09:33.947398,Increasing demand,47120,12.65,Moderate competition,South America,12.26,8
+94,116,2023-11-21 06:09:33.947402,Increasing demand,59237,13.05,Moderate competition,Asia,10.88,26
+95,399,2024-01-17 06:09:33.947406,Increasing demand,4526,7.05,Moderate competition,North America,8.7,17
+96,398,2024-01-18 06:09:33.947409,Increasing demand,17616,9.5,Moderate competition,South America,12.19,50
+97,256,2023-08-19 06:09:33.947413,Increasing demand,99374,15.9,Moderate competition,North America,7.67,31
+98,345,2023-10-14 06:09:33.947417,Increasing demand,42356,8.1,Moderate competition,North America,1.78,45
+99,151,2023-10-29 06:09:33.947425,Increasing demand,99701,8.47,Moderate competition,Africa,3.26,16
+100,433,2024-02-04 06:09:33.947433,Increasing demand,43601,10.86,Moderate competition,Asia,12.18,25
+101,465,2023-09-11 06:09:33.947441,Increasing demand,74243,19.63,Moderate competition,South America,1.67,20
+102,43,2023-11-10 06:09:33.947448,Increasing demand,73903,7.69,Moderate competition,Africa,10.84,1
+103,86,2024-02-14 06:09:33.947452,Increasing demand,67357,10.46,Moderate competition,Asia,2.36,32
+104,389,2023-09-23 06:09:33.947456,Increasing demand,46855,3.51,Moderate competition,Africa,14.47,16
+105,361,2023-07-24 06:09:33.947460,Increasing demand,40795,8.58,Moderate competition,South America,8.07,15
+106,429,2024-04-18 06:09:33.947464,Increasing demand,31045,10.74,Moderate competition,South America,6.91,39
+107,28,2024-01-07 06:09:33.947467,Increasing demand,60973,1.22,Moderate competition,Europe,2.09,27
+108,415,2023-09-11 06:09:33.947471,Increasing demand,60869,19.64,Moderate competition,Europe,12.19,32
+109,13,2024-04-24 06:09:33.947475,Increasing demand,54061,12.11,Moderate competition,South America,11.94,13
+110,444,2023-12-22 06:09:33.947479,Increasing demand,1713,14.44,Moderate competition,South America,13.15,8
+111,296,2023-07-29 06:09:33.947483,Increasing demand,56291,6.22,Moderate competition,South America,7.89,6
+112,436,2023-11-03 06:09:33.947487,Increasing demand,52755,6.86,Moderate competition,South America,14.17,34
+113,121,2023-12-05 06:09:33.947491,Increasing demand,5312,16.37,Moderate competition,Asia,7.75,23
+114,15,2024-03-20 06:09:33.947495,Increasing demand,26757,19.15,Moderate competition,Africa,6.02,22
+115,337,2024-03-26 06:09:33.947500,Increasing demand,31484,1.59,Moderate competition,Asia,13.67,28
+116,140,2024-04-15 06:09:33.947503,Increasing demand,83129,3.61,Moderate competition,Africa,9.7,38
+117,368,2023-07-10 06:09:33.947507,Increasing demand,84242,0.59,Moderate competition,Africa,4.73,15
+118,288,2023-06-30 06:09:33.947511,Increasing demand,30883,4.27,Moderate competition,Africa,11.2,44
+119,200,2023-06-28 06:09:33.947515,Increasing demand,86041,3.34,Moderate competition,South America,11.98,27
+120,313,2023-08-04 06:09:33.947519,Increasing demand,71009,15.9,Moderate competition,Asia,10.66,29
+121,88,2024-01-12 06:09:33.947523,Increasing demand,25910,3.78,Moderate competition,South America,13.1,30
+122,215,2024-05-27 06:09:33.947527,Increasing demand,70542,9.12,Moderate competition,Africa,12.89,44
+123,61,2023-11-17 06:09:33.947531,Increasing demand,94225,13.57,Moderate competition,Asia,4.95,19
+124,116,2024-02-06 06:09:33.947535,Increasing demand,6566,6.92,Moderate competition,Europe,4.41,32
+125,322,2023-09-08 06:09:33.947540,Increasing demand,2340,18.62,Moderate competition,Africa,6.78,20
+126,238,2023-11-21 06:09:33.947544,Increasing demand,7524,13.29,Moderate competition,Africa,7.11,13
+127,220,2024-03-01 06:09:33.947649,Increasing demand,32664,2.47,Moderate competition,North America,2.36,50
+128,498,2024-03-07 06:09:33.947661,Increasing demand,20478,10.85,Moderate competition,Europe,10.6,24
+129,382,2023-09-19 06:09:33.947671,Increasing demand,32247,5.79,Moderate competition,Asia,9.32,37
+130,272,2023-11-22 06:09:33.947683,Increasing demand,85149,19.82,Moderate competition,South America,4.65,13
+131,242,2023-12-16 06:09:33.947706,Increasing demand,59619,8.22,Moderate competition,Africa,5.61,3
+132,36,2024-02-18 06:09:33.947711,Increasing demand,74542,8.15,Moderate competition,Africa,2.51,28
+133,403,2023-07-05 06:09:33.947717,Increasing demand,82024,17.39,Moderate competition,North America,3.66,2
+134,298,2024-01-29 06:09:33.947726,Increasing demand,32264,9.11,Moderate competition,North America,1.26,7
+135,36,2023-12-25 06:09:33.947731,Increasing demand,37266,7.59,Moderate competition,Africa,1.91,46
+136,47,2024-05-21 06:09:33.947735,Increasing demand,52256,0.63,Moderate competition,Asia,1.94,7
+137,313,2023-10-25 06:09:33.947739,Increasing demand,3354,9.05,Moderate competition,Asia,4.06,2
+138,158,2024-04-07 06:09:33.947743,Increasing demand,67649,13.46,Moderate competition,South America,3.51,13
+139,309,2023-08-24 06:09:33.947747,Increasing demand,18109,18.88,Moderate competition,Asia,2.07,23
+140,331,2024-03-13 06:09:33.947752,Increasing demand,65092,19.36,Moderate competition,Africa,12.22,49
+141,337,2023-10-04 06:09:33.947756,Increasing demand,63256,16.01,Moderate competition,Asia,3.1,8
+142,397,2023-08-17 06:09:33.947763,Increasing demand,98981,18.68,Moderate competition,Europe,10.94,31
+143,400,2024-04-27 06:09:33.947768,Increasing demand,41245,15.75,Moderate competition,South America,6.24,41
+144,140,2023-09-29 06:09:33.947776,Increasing demand,64489,7.86,Moderate competition,Europe,14.81,38
+145,106,2024-01-08 06:09:33.947785,Increasing demand,96310,3.04,Moderate competition,South America,11.88,16
+146,380,2023-09-23 06:09:33.947793,Increasing demand,7512,6.83,Moderate competition,Africa,2.97,11
+147,36,2023-10-11 06:09:33.947802,Increasing demand,4512,11.47,Moderate competition,South America,7.62,28
+148,30,2023-12-01 06:09:33.947810,Increasing demand,46965,4.33,Moderate competition,Africa,7.79,27
+149,441,2024-03-25 06:09:33.947815,Increasing demand,61132,13.51,Moderate competition,Africa,2.59,35
+150,81,2023-10-19 06:09:33.947824,Increasing demand,74280,11.38,Moderate competition,Africa,11.94,34
+151,309,2023-12-19 06:09:33.947832,Increasing demand,91487,15.52,Moderate competition,North America,5.26,42
+152,65,2024-02-14 06:09:33.947839,Increasing demand,56630,18.37,Moderate competition,Africa,14.32,14
+153,187,2023-07-09 06:09:33.947846,Increasing demand,61506,6.65,Moderate competition,South America,3.84,44
+154,252,2023-07-10 06:09:33.947851,Increasing demand,79431,18.37,Moderate competition,Africa,1.6,43
+155,336,2024-02-27 06:09:33.947855,Increasing demand,91015,5.82,Moderate competition,South America,4.71,48
+156,130,2023-12-09 06:09:33.947859,Increasing demand,3852,2.2,Moderate competition,Asia,6.12,43
+157,130,2024-05-11 06:09:33.947863,Increasing demand,68546,1.58,Moderate competition,North America,9.69,25
+158,82,2024-01-23 06:09:33.947867,Increasing demand,60382,13.41,Moderate competition,North America,12.59,20
+159,96,2023-11-09 06:09:33.947871,Increasing demand,59313,10.65,Moderate competition,Asia,9.88,28
+160,304,2024-02-22 06:09:33.947875,Increasing demand,5275,4.1,Moderate competition,Asia,8.91,41
+161,309,2023-07-26 06:09:33.947879,Increasing demand,32086,13.8,Moderate competition,Asia,5.07,28
+162,131,2024-04-08 06:09:33.947883,Increasing demand,52558,0.77,Moderate competition,Europe,2.14,40
+163,344,2023-09-13 06:09:33.947887,Increasing demand,74931,4.36,Moderate competition,South America,13.92,32
+164,249,2023-08-10 06:09:33.947891,Increasing demand,63624,0.64,Moderate competition,North America,8.87,6
+165,18,2024-01-28 06:09:33.947896,Increasing demand,5641,11.68,Moderate competition,South America,12.34,50
+166,136,2024-05-16 06:09:33.947900,Increasing demand,50709,1.61,Moderate competition,South America,6.3,46
+167,458,2023-09-01 06:09:33.947906,Increasing demand,77771,4.1,Moderate competition,Africa,1.85,44
+168,166,2024-04-04 06:09:33.947910,Increasing demand,52932,16.93,Moderate competition,South America,7.99,41
+169,24,2024-03-12 06:09:33.947919,Increasing demand,57021,2.16,Moderate competition,North America,9.79,19
+170,272,2024-05-15 06:09:33.947923,Increasing demand,76224,13.69,Moderate competition,Africa,14.96,46
+171,188,2023-09-12 06:09:33.947927,Increasing demand,33632,9.64,Moderate competition,Asia,8.39,25
+172,95,2023-08-30 06:09:33.947932,Increasing demand,51632,4.45,Moderate competition,North America,13.06,36
+173,153,2024-04-12 06:09:33.947936,Increasing demand,77816,11.01,Moderate competition,Asia,11.73,48
+174,47,2023-09-13 06:09:33.947941,Increasing demand,3994,8.81,Moderate competition,Asia,2.5,9
+175,381,2024-06-09 06:09:33.947945,Increasing demand,5797,8.01,Moderate competition,Africa,4.09,9
+176,178,2023-07-15 06:09:33.947949,Increasing demand,1195,4.45,Moderate competition,North America,9.98,32
+177,247,2024-06-11 06:09:33.947954,Increasing demand,59905,16.52,Moderate competition,Europe,10.29,17
+178,409,2024-06-15 06:09:33.947958,Increasing demand,73327,6.64,Moderate competition,Asia,2.54,9
+179,319,2023-11-23 06:09:33.947980,Increasing demand,4213,4.95,Moderate competition,Europe,6.98,40
+180,377,2024-03-01 06:09:33.947990,Increasing demand,2989,8.96,Moderate competition,Africa,13.3,42
+181,408,2023-09-15 06:09:33.947997,Increasing demand,41710,6.68,Moderate competition,Asia,6.25,50
+182,350,2023-12-19 06:09:33.948002,Increasing demand,39371,9.18,Moderate competition,Asia,14.37,50
+183,143,2024-04-21 06:09:33.948006,Increasing demand,80412,6.06,Moderate competition,Europe,4.8,49
+184,189,2024-04-22 06:09:33.948010,Increasing demand,67396,6.46,Moderate competition,North America,9.06,49
+185,278,2023-08-02 06:09:33.948014,Increasing demand,79262,19.13,Moderate competition,Asia,11.73,2
+186,393,2024-01-03 06:09:33.948018,Increasing demand,38452,15.23,Moderate competition,North America,4.39,23
+187,111,2023-06-27 06:09:33.948022,Increasing demand,14892,3.72,Moderate competition,Asia,8.95,43
+188,135,2023-07-24 06:09:33.948026,Increasing demand,30012,14.65,Moderate competition,Africa,3.14,45
+189,31,2024-03-22 06:09:33.948030,Increasing demand,80483,16.04,Moderate competition,South America,1.98,42
+190,498,2024-02-19 06:09:33.948034,Increasing demand,94068,12.82,Moderate competition,North America,4.31,5
+191,331,2024-05-27 06:09:33.948038,Increasing demand,93596,11.61,Moderate competition,Europe,1.57,37
+192,47,2023-08-22 06:09:33.948042,Increasing demand,8472,7.68,Moderate competition,Asia,1.33,20
+193,146,2023-08-12 06:09:33.948049,Increasing demand,11462,10.0,Moderate competition,Africa,5.47,12
+194,390,2024-05-10 06:09:33.948054,Increasing demand,16513,10.58,Moderate competition,South America,5.5,1
+195,262,2023-10-19 06:09:33.948059,Increasing demand,55410,8.13,Moderate competition,North America,7.29,8
+196,434,2023-11-07 06:09:33.948064,Increasing demand,33530,18.5,Moderate competition,South America,2.95,44
+197,462,2024-05-31 06:09:33.948067,Increasing demand,96547,6.91,Moderate competition,North America,4.57,5
+198,132,2023-07-18 06:09:33.948074,Increasing demand,80324,16.06,Moderate competition,South America,9.09,9
+199,387,2024-02-24 06:09:33.948078,Increasing demand,44244,3.87,Moderate competition,South America,9.52,21
+200,16,2024-03-16 06:09:33.948082,Increasing demand,77213,16.98,Moderate competition,North America,10.54,5
+
+
